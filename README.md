@@ -1,4 +1,5 @@
-# OCR-Image-Text-Extractor is a Python-based project that uses Optical Character Recognition (OCR) technology to extract text from images. With this project, you can easily extract text from scanned documents, handwritten notes, and other types of images that contain text.
+# OCR-Image-Text-Extractor 
+OCR-Image-Text-Extractor is a Python-based project that uses Optical Character Recognition (OCR) technology to extract text from images. With this project, you can easily extract text from scanned documents, handwritten notes, and other types of images that contain text.
 ->The project includes several modules that are designed to work together to extract text from images. The modules include image preprocessing, text extraction, and text post-processing, which involves cleaning up the extracted text and formatting it for readability.
 ->The project is easy to use, and it includes a simple command-line interface that allows you to input an image file and output the extracted text.
 ->This repository is perfect for developers who are looking to add text extraction functionality to their applications or for anyone who needs to extract text from images on a regular basis. The project is open source and available for free, so anyone can use it and contribute to its development.
